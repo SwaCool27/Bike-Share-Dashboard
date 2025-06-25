@@ -70,8 +70,7 @@ Swayam Bike Share is practice exercise to learn more about Power BI and SQL in a
 <h2>📸 Dashboard Preview</h2>
 
 <p><em>Screenshots or video link of the Power BI dashboard can be embedded here.</em></p>
-![image](https://github.com/user-attachments/assets/d65c9f32-ead2-47ed-9ad3-ceb33b3718e7)
 
+![BikePowerBIData](https://github.com/user-attachments/assets/e349057b-b716-446e-955d-4676027c294b)
 ---
-
 </p>
